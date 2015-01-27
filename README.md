@@ -1,2 +1,3 @@
 # hello-world
-Just a test repository.
+Hi Humans!
+Start learn how to use the git.
